@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HTTP_JSON</string>
+    <string name="start">START</string>
+    <string name="http_rest_request">HTTP REST REQUEST</string>
 </resources>
